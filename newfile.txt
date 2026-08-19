@@ -4,3 +4,6 @@ This is not a code
 Or a Feature File
 Just testing and refreshing my memory
 On how to successful to a git commit
+
+So now I am working on the new branch
+And adding some lines here to update this File
