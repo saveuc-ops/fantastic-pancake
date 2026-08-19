@@ -1,0 +1,6 @@
+There were no lines here previously - so all of the new content is what I am currently writing
+now
+This is not a code
+Or a Feature File
+Just testing and refreshing my memory
+On how to successful to a git commit
